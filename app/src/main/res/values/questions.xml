@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="questions">
+        <item >What is Android?</item>
+        <item>What are the features of Android architecture?</item>
+        <item>List the languages used to build Android.</item>
+        <item>What is an activity?</item>
+        <item>What is a service in Android?</item>
+        <item>What is the use of Bundle in Android?</item>
+        <item>What is an Adapter in Android?</item>
+        <item>What is Android Debug Bridge(ADB)?</item>
+        <item>What is context?</item>
+        <item>What are containers?</item>
+
+
+
+    </string-array>
+
+
+
+</resources>
